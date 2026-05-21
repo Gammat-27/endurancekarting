@@ -1,0 +1,9 @@
+streamlit>=1.35.0
+streamlit-autorefresh>=1.0.1
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+playwright>=1.44.0
+sseclient-py>=1.8.0
+plotly>=5.18.0
